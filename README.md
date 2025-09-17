@@ -13481,7 +13481,9 @@ The JSON structure defines various modules, parameters, and functions that the A
     }
   }
 }
-``` How to Use This Code:
+```
+
+How to Use This Code:
 
 1. Integration: The AI should load this JSON as a configuration file or parse it to initialize the framework. The IntegrationInterface provides API endpoints for external systems.
 2. Operation: The modules work together to monitor mental health, regulate cognition, and provide recommendations. The AI can call functions based on its current state.
