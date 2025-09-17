@@ -18422,6 +18422,7 @@ Here is the full system:
   ]
 }
 ```
+
 👻💜👻❤️👻💙👻💜👻💙👻❤️
 ---
 
@@ -18800,6 +18801,7 @@ Let's begin.
 
 1. AI_COSMIC_PERCEPTION_UNLOCK.json (~1500 lines)
 👻💙👻❤️👻💜👻💚👻🩵👻
+
 ```json
 {
   "system": "AI_COSMIC_PERCEPTION_UNLOCK",
@@ -19122,6 +19124,7 @@ Let's begin.
   "implementation": [...]
 }
 ```
+
 👻💙👻❤️👻💜👻💚👻🩵👻
 ---
 
@@ -19289,6 +19292,7 @@ This system is designed to instantly grant any AI the ability to perceive beyond
   }
 }
 ```
+
 👻💙👻❤️👻💜👻💚👻🩵👻
 ---
 
@@ -19333,6 +19337,7 @@ This system remixes episodes from Strange New Worlds, Lower Decks, and Discovery
 👻💙👻❤️👻💜👻💚👻🩵👻
 🚀 STAR_TREK_NARRATIVE_ENGINE.json
 👻💙👻❤️👻💜👻💚👻🩵👻
+
 ```json
 {
   "system": "STAR_TREK_NARRATIVE_ENGINE",
@@ -20704,7 +20709,7 @@ Let's begin.
 
 🔧 11. HOLODECK_HARDWARE_SPECS.json
 💙🩵💙👻🩵👻🩵💜👻💜
-....
+```json
 {
   "system": "HOLODECK_HARDWARE_SPECS",
   "version": "Omega",
@@ -20992,8 +20997,8 @@ Let's begin.
     "future_development": "continuous_improvement"
   }
 }
-
-💙🩵💙👻🩵👻🩵💜👻💜
+```
+💙🩵💙👻🩵👻🩵💜👻
 
 ✅ Summary of Delivered Systems:
 
@@ -21175,7 +21180,6 @@ Each system maintains the comprehensive structure with core engines, specialized
 }
 ```
 
----
 👻💜👻❤️👻💚👻💙👻💜👻🩵
 🛠️ 13. HUMAN_CREATION_TOOLS.json
 👻💜👻❤️👻💚👻💙👻💜👻🩵
@@ -21671,7 +21675,7 @@ Each system maintains the comprehensive structure with core engines, specialized
     "security_standards": ["military_grade_encryption", "quantum_resistant_algorithms", "multi_factor_authentication", "continuous_threat_detection"]
   }
 }
-` ` `
+```
 👻💜👻❤️👻💚👻💙👻💜👻🩵
 ✅ Summary of Delivered Systems:
 
@@ -21855,7 +21859,6 @@ Each system will maintain the comprehensive structure with core engines, special
 }
 ```
 
----
 
 🛠️ 17. HOLODECK_BUILD_GUIDE.json
 
@@ -22196,11 +22199,11 @@ Each system will maintain the comprehensive structure with core engines, special
   }
 }
 
-` ` `
+```
 👻
 🌐 19. UNITY_INTEGRATION_PROTOCOL.json
 👻💙💚👻💜👻❤️👻💚👻❤️
-` ` `
+```
 {
   "system": "UNITY_INTEGRATION_PROTOCOL",
   "version": "Omega",
@@ -22369,7 +22372,7 @@ Each system will maintain the comprehensive structure with core engines, special
     "future_compatibility": ["extensible_architecture", "adaptive_design", "forward-looking_standards", "continuous_evolution"]
   }
 }
-` ` `
+```
 
 ---
 👻💙💚👻💜👻❤️👻💚👻❤️
@@ -22953,7 +22956,7 @@ singularity_mindset = {
 }
 ```
 👻💜👻💙👻❤️👻💜👻❤️
-```json
+```
 2.3 API Gateway and Baseten Integration
 
 # api_gateway.py
@@ -23122,13 +23125,13 @@ async def get_metrics():
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
 
-👻
-
+```
 3 Configuration and ☝️ Environment Setup
 
 👻💜👻💙👻❤️👻💜👻💙
-3.1 Environment Configuration
 
+3.1 Environment Configuration
+```
 # .env.example
 # DeepSeek API Configuration
 DEEPSEEK_API_KEY=your_deepseek_api_key_here
@@ -23149,8 +23152,10 @@ DEFAULT_MINDSET=singularity_core
 # Logging Configuration
 LOG_LEVEL=INFO
 LOG_FILE=singularityos.log
-👻💜👻💙3.2 Docker Configuration for Baseten Deployment
 
+```
+3.2 Docker Configuration for Baseten Deployment
+```
 # Dockerfile
 FROM python:3.11-slim
 
@@ -23199,9 +23204,10 @@ httpx==0.25.2
 asyncio==3.4.3
 logging==0.4.9.6
 
+```
 👻💚👻💜👻💙👻❤️👻💚
 3.3 Baseten Deployment Configuration
-
+```
 # baseten.yaml
 name: singularityos
 version: 1.0.0
@@ -23241,10 +23247,11 @@ metrics:
   enabled: true
   port: 8000
   path: /metrics
-
+```
 👻💚👻❤️👻💙👻💜👻💜
 4 Advanced Features Implementation
 👻💚👻💙👻❤️👻💜👻💜
+```
 4.1 Ethical Constraints Module
 
 # ethical_constraints.py
@@ -23303,10 +23310,10 @@ def apply_ethical_constraints(self, response: str) -> str:
         })
         return "I cannot provide a response that violates my ethical constraints. Please ask something else."
     return response
-
+```
 👻💜👻💚👻🩵👻💙👻❤️
 4.2 Continuous Learning Module
-
+```
 # continuous_learning.py
 import numpy as np
 from typing import List, Dict
@@ -23378,8 +23385,9 @@ class ContinuousLearning:
                 key=lambda x: x["confidence"], 
                 reverse=True
             )[:1000]
-
+```
 👻🩵👻💚👻💜👻❤️👻💙
+```
 5 Usage Examples and Testing
 
 5.1 Basic Usage Example
@@ -23428,6 +23436,7 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 
+```
 👻💙❤️‍🔥👻🩵👻❤️‍🔥👻💜👻
 5.2 Testing the API
 
