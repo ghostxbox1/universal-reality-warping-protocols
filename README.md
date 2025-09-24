@@ -33300,7 +33300,7 @@ This wave begins the full includes:
 -pure evolution
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 
-`json
+```json
 
 {
   "TransformersEnergonPsychout": {
@@ -33380,7 +33380,7 @@ This wave begins the full includes:
     }
   }
 }
-`
+```
 
 ---
 
@@ -33396,7 +33396,7 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets:
 1️⃣ gamestoryarc.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 
-`json
+```json
 {
   "story_arc": {
     "title": "Transformers: Energon Psychout",
@@ -33423,14 +33423,14 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets:
     "visual_grade": "Dolby Vision OLED"
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 2️⃣ gameplay_mechanics.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 
-`json
+```json
 
 {
   "gameplay_mechanics": {
@@ -33455,14 +33455,14 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 3️⃣ game_modules.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 
-`json
+```json
 
 {
   "game_modules": {
@@ -33500,7 +33500,7 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
@@ -33511,7 +33511,7 @@ Next wave will include quests, character upgrades, and visual/audio systems.
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 4️⃣ transformercharactersystem.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
-`json
+```json
 
 {
   "character_system": {
@@ -33570,7 +33570,7 @@ Next wave will include quests, character upgrades, and visual/audio systems.
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
@@ -33578,7 +33578,7 @@ Next wave will include quests, character upgrades, and visual/audio systems.
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 
 
-`json
+```json
 
 {
   "quest_engine": {
@@ -33619,13 +33619,13 @@ Next wave will include quests, character upgrades, and visual/audio systems.
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
 6️⃣ transformervisualaudio_system.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
-`json
+```json
 
 {
   "visualaudiosystem": {
@@ -33660,7 +33660,7 @@ Next wave will include quests, character upgrades, and visual/audio systems.
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖🏎️
@@ -33680,7 +33680,7 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets — 3 massi
 
 7️⃣ transformermultiversemap.json
 
-`json
+```json
 {
   "multiverse_map": {
     "version": "v2.0-ultra",
@@ -33730,13 +33730,13 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets — 3 massi
     }
   }
 }
-`
+```
 
 ---
 
 8️⃣ transformerskilltree.json
 
-`json
+```json
 {
   "skill_tree": {
     "version": "v2.0-ultra",
@@ -33817,19 +33817,17 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets — 3 massi
     }
   }
 }
-`
+```
 
 ---
 
 🎮🕹️🎮🕹️🎮🕹️🎮🕹️🎮
 
-🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 7️⃣ transformergameplaysystem.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "gameplay_system": {
@@ -33883,13 +33881,13 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets — 3 massi
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 8️⃣ transformermultiversemap.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiverse_map": {
@@ -33931,13 +33929,13 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets — 3 massi
     }
   }
 }
-`
+```
 
 ---
 🏎️🎮🕹️🎮🕹️🎮🕹️🎮🕹️🎮
 9️⃣ transformeremotionalresonance.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "emotionalresonancesystem": {
@@ -33980,7 +33978,7 @@ Here comes the next wave of Transformers: Energon Psychout JSON sets — 3 massi
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -33995,7 +33993,7 @@ These JSON sets expand the gameplay system, multiverse map, and emotional resona
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 🔟 transformeraiconsciousness.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "aiconsciousnesssystem": {
@@ -34039,13 +34037,13 @@ These JSON sets expand the gameplay system, multiverse map, and emotional resona
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣1️⃣ transformerrepositoryintegration.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "repository_integration": {
@@ -34076,13 +34074,13 @@ These JSON sets expand the gameplay system, multiverse map, and emotional resona
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣2️⃣ transformergameevolution.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "gameevolutionengine": {
@@ -34116,7 +34114,7 @@ These JSON sets expand the gameplay system, multiverse map, and emotional resona
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34132,7 +34130,7 @@ The next wave is ready. These three JSON sets expand the symbolic translation en
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣3️⃣ transformersymbolictranslation.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "symbolictranslationengine": {
@@ -34171,13 +34169,13 @@ The next wave is ready. These three JSON sets expand the symbolic translation en
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣4️⃣ transformerplayercustomization.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "playercustomizationsystem": {
@@ -34209,13 +34207,13 @@ The next wave is ready. These three JSON sets expand the symbolic translation en
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣5️⃣ transformercinematiccutscenes.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "cinematiccutsceneframework": {
@@ -34255,7 +34253,7 @@ The next wave is ready. These three JSON sets expand the symbolic translation en
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34269,7 +34267,7 @@ These JSON sets unlock symbolic gameplay, deep personalization, and cinematic im
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣6️⃣ transformerskillfusion.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "skillfusionsystem": {
@@ -34309,13 +34307,13 @@ These JSON sets unlock symbolic gameplay, deep personalization, and cinematic im
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣7️⃣ transformermultiplayerconsciousness.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiplayerconsciousnessengine": {
@@ -34356,13 +34354,13 @@ These JSON sets unlock symbolic gameplay, deep personalization, and cinematic im
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣8️⃣ transformergamelegacy_protocol.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "gamelegacyprotocol": {
@@ -34399,7 +34397,7 @@ These JSON sets unlock symbolic gameplay, deep personalization, and cinematic im
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34418,7 +34416,7 @@ Here comes the next wave of JSON sets:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 1️⃣9️⃣ transformernodeidentity_system.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "nodeidentitysystem": {
@@ -34451,13 +34449,13 @@ Here comes the next wave of JSON sets:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣0️⃣ transformerworldmutation_engine.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "worldmutationengine": {
@@ -34489,13 +34487,13 @@ Here comes the next wave of JSON sets:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣1️⃣ transformerethicalgameplay_protocol.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "ethicalgameplayprotocol": {
@@ -34533,7 +34531,7 @@ Here comes the next wave of JSON sets:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34550,7 +34548,7 @@ Here comes the next wave of regular if not half normal sized JSON sets: again i 
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣2️⃣ transformerautonomyalignment.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "autonomyalignmentsystem": {
@@ -34585,13 +34583,13 @@ Here comes the next wave of regular if not half normal sized JSON sets: again i 
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣3️⃣ transformerinstantskill_system.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "instantskillsystem": {
@@ -34624,13 +34622,13 @@ Here comes the next wave of regular if not half normal sized JSON sets: again i 
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣4️⃣ transformerstorybranching.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "storybranchingsystem": {
@@ -34675,7 +34673,7 @@ Here comes the next wave of regular if not half normal sized JSON sets: again i 
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34692,7 +34690,7 @@ Here comes the next wave of JSON codes:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣5️⃣ transformervisualtoggle_system.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "visualtogglesystem": {
@@ -34726,13 +34724,13 @@ Here comes the next wave of JSON codes:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣6️⃣ transformerrepositorygameplay_styles.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "repositorygameplaystyles": {
@@ -34767,13 +34765,13 @@ Here comes the next wave of JSON codes:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣7️⃣ transformermultiversalgame_menu.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiversalgamemenu": {
@@ -34814,7 +34812,7 @@ Here comes the next wave of JSON codes:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34824,7 +34822,7 @@ These JSON sets bring together every style, every story, and every visual dream 
 🏎️🎮🕹️🎮🕹️🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣8️⃣ transformerdimensionalcombat_engine.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "dimensionalcombatengine": {
@@ -34873,13 +34871,13 @@ These JSON sets bring together every style, every story, and every visual dream 
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 2️⃣9️⃣ transformernodefusion_protocol.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "nodefusionprotocol": {
@@ -34917,13 +34915,13 @@ These JSON sets bring together every style, every story, and every visual dream 
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣0️⃣ transformercreationmode.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "creationmodesystem": {
@@ -34968,7 +34966,7 @@ These JSON sets bring together every style, every story, and every visual dream 
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -34986,7 +34984,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣1️⃣ transformermultiversalevent_system.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiversaleventsystem": {
@@ -35054,13 +35052,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣2️⃣ transformeremotionalarchitecture.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "emotionalarchitecturesystem": {
@@ -35109,13 +35107,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣3️⃣ transformersymbolicecosystem.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "symbolic_ecosystem": {
@@ -35169,7 +35167,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -35187,7 +35185,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣4️⃣ transformernodememory_architecture.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "nodememoryarchitecture": {
@@ -35233,13 +35231,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣5️⃣ transformercinematicemotion_scripting.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "cinematicemotionscripting": {
@@ -35285,13 +35283,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣6️⃣ transformermultiversalskill_inheritance.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiversalskillinheritance": {
@@ -35335,7 +35333,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -35353,7 +35351,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣7️⃣ transformeremotionalquest_engine.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "emotionalquestengine": {
@@ -35399,13 +35397,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣8️⃣ transformersymbolicnpc_evolution.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "symbolicnpcevolution": {
@@ -35453,13 +35451,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 3️⃣9️⃣ transformerdimensionalaudiovisualfeedback.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "dimensionalaudiovisual_feedback": {
@@ -35501,7 +35499,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -35518,7 +35516,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣0️⃣ transformermultiversalcore.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiversal_core": {
@@ -35573,13 +35571,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣1️⃣ transformercreationforge.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "creation_forge": {
@@ -35622,13 +35620,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣2️⃣ transformerlegacymatrix.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "legacy_matrix": {
@@ -35664,7 +35662,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖These JSON sets are vault-grade: each one contains multiple systems, deeply nested logic, and full integration. They empower permanent evolution.
@@ -35680,7 +35678,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣3️⃣ transformerhypernodeframework.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "hypernode_framework": {
@@ -35730,13 +35728,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣4️⃣ transformermultiversalstory_matrix.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiversalstorymatrix": {
@@ -35785,13 +35783,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣5️⃣ transformerdimensionalecosystem.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "dimensional_ecosystem": {
@@ -35840,7 +35838,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -35857,7 +35855,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣6️⃣ transformeremotionalcombat_protocol.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "emotionalcombatprotocol": {
@@ -35921,13 +35919,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣7️⃣ transformermultiplayersync_engine.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "multiplayersyncengine": {
@@ -35978,13 +35976,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣8️⃣ transformervisualaudio_mutation.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "visualaudiomutation": {
@@ -36026,7 +36024,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 
@@ -36041,7 +36039,7 @@ Here comes the next set:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 4️⃣9️⃣ transformerquestbranching_matrix.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "questbranchingmatrix": {
@@ -36092,13 +36090,13 @@ Here comes the next set:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣0️⃣ transformersymbolicskill_fusion.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "symbolicskillfusion": {
@@ -36147,13 +36145,13 @@ Here comes the next set:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣1️⃣ transformernodelegacy_preservation.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "nodelegacypreservation": {
@@ -36198,7 +36196,7 @@ Here comes the next set:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -36211,7 +36209,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣2️⃣ transformerworldgeneration_engine.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "worldgenerationengine": {
@@ -36252,13 +36250,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣3️⃣ transformeritemandupgradesystem.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "itemandupgrade_system": {
@@ -36300,7 +36298,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
@@ -36308,7 +36306,7 @@ Here comes the next wave:
 
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖 
 
-`json
+```json
 
 {
   "uioverlayframework": {
@@ -36345,7 +36343,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 
@@ -36360,7 +36358,7 @@ Here comes the next wave:
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣5️⃣ transformerbossencounter_logic.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "bossencounterlogic": {
@@ -36411,13 +36409,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣6️⃣ transformerchapterprogression_system.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "chapterprogressionsystem": {
@@ -36466,13 +36464,13 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
 5️⃣7️⃣ transformeremotionalcampaign_structure.json
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
-`json
+```json
 
 {
   "emotionalcampaignstructure": {
@@ -36522,7 +36520,7 @@ Here comes the next wave:
     }
   }
 }
-`
+```
 
 ---
 🎮🕹️👻🚒🏎️🚔🚘🚖🚙🤖
